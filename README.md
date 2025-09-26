@@ -11,13 +11,14 @@ A curated list of free and useful design resources for **UI/UX, prototyping, and
 Everything is neatly categorized for quick access.  
 
 ## 📂 folder structure  
-- [01-3d-illustration-packs](01-3d-illustration-packs/)
-- [02-transitions-effects](02-transitions-effects/)
-- [03-interaction-types-ui-effects](03-interaction-types-ui-effects/)
-- [04-visual-style-assets](04-visual-style-assets/)
-- [05-ui-component-libraries](05-ui-component-libraries/)
-- [06-layout-flow-resources](06-layout-flow-resources/)
-- [07-free-resources](07-free-resources/)
+- [01-3d-illustration-packs](3d-illustration-packs/)
+- [02-transitions-effects](transitions-effects/)
+- [03-interaction-types-ui-effects](interaction-types-ui-effects/)
+- [04-visual-style-assets](visual-style-assets/)
+- [05-ui-component-libraries](ui-component-libraries/)
+- [06-layout-flow-resources](ayout-flow-resources/)
+- [07-free-resources](free-resources/)
+- [08-mind-blowing-websites-and-designs](mind-blowing-websites-and-designs/)
 
 
 
