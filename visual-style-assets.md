@@ -1,5 +1,4 @@
-
-### 🎨 Visual & Style Assets → **Design Style / Branding**
+## 🎨 Visual & Style Assets → **Design Style / Branding**
 
 Resources that set the **look and feel** of a project.
 
