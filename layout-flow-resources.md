@@ -1,5 +1,4 @@
-
-### 🗺️ Layout & Flow Resources → **Structure / UX Mapping**
+## 🗺️ Layout & Flow Resources → **Structure / UX Mapping**
 
 Tools for **planning and structuring** user journeys.
 
