@@ -10,14 +10,15 @@ Whether I’m just starting out or refining my skills, this hub has everything t
 A curated list of free and useful design resources for **UI/UX, prototyping, and creative projects**.  
 Everything is neatly categorized for quick access.  
 
-## 📂 Folder Structure  
-- [🖼️ 3D & Illustration Packs](./3D-Illustration-Packs)  
-- [🎬 List of Transitions & Effects](./Transitions-Effects)  
-- [🌀 Interaction Types / UI Effect Names](./Interaction-Types-UI-Effects)  
-- [🎨 Visual & Style Assets](./Visual-Style-Assets)  
-- [🧩 UI & Component Libraries](./UI-Component-Libraries)  
-- [📐 Layout & Flow Resources](./Layout-Flow-Resources)  
-- [🆓 Free Resources](./Free-Resources)  
+## 📂 folder structure  
+- [🖼️ 3d & illustration packs](./3d-illustration-packs)  
+- [🎬 list of transitions & effects](./transitions-effects)  
+- [🌀 interaction types / ui effect names](./interaction-types-ui-effects)  
+- [🎨 visual & style assets](./visual-style-assets)  
+- [🧩 ui & component libraries](./ui-component-libraries)  
+- [📐 layout & flow resources](./layout-flow-resources)  
+- [🆓 free resources](./free-resources)  
+ 
 
 ---
 
